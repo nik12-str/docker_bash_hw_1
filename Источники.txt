@@ -1,0 +1,17 @@
+Для чего нужен шебанг в Bash и Python // selectel.ru [сайт]. URL: https://selectel.ru/blog/tutorials/what-is-shebang-for-in-bash-and-python/?ysclid=mq986lun2f866474157 (дата обращения: 12.06.2026).
+
+Руководство по функциям в Bash с примерами // blog.sedicomm.com [сайт]. URL: https://blog.sedicomm.com/2026/01/28/rukovodstvo-po-funkcziyam-v-bash-s-primerami/?ysclid=mq9886iw8911901711 (дата обращения: 12.06.2026).
+
+Использование оператора case в скриптах Bash // blog.sedicomm.com [сайт]. URL: https://blog.sedicomm.com/2025/12/18/ispolzovanie-operatora-case-v-skriptah-bash/?ysclid=mq98by4kwi474582455 (дата обращения: 12.06.2026).
+
+Подстановка команд // opennet.ru [сайт]. URL: https://www.opennet.ru/docs/RUS/bash_scripting_guide/c11441.html (дата обращения: 12.06.2026).
+
+Тонкости работы с командой docker container run // docs.docker.com [сайт]. URL: https://docs.docker.com/reference/cli/docker/container/run/ (дата обращения: 12.06.2026).
+
+Решение проблемы преобразования пути // github.com [сайт]. URL: https://github.com/git-for-windows/git/issues/4798 (дата обращения: 12.06.2026).
+
+Флаги для команды ls // gnu.org [сайт]. URL: https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html (дата обращения: 12.06.2026).
+
+python - Docker Official Image // hub.docker.com [сайт]. URL: https://hub.docker.com/_/python (дата обращения: 12.06.2026).
+
+Git - gitattributes Documentation // git-scm.com [сайт]. URL: https://git-scm.com/docs/gitattributes (дата обращения: 12.06.2026).
