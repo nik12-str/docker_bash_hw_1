@@ -22,10 +22,31 @@ run_reporter() {
     MSYS_NO_PATHCONV=1 docker run --rm -v "$(pwd)/data:/data" reporter-image
 }
 
+structure() {
+    ls -R
+}
+
+clear_data() {
+    rm -f data/*.csv 
+    rm -f data/*.html
+}
+
+inside_generator() {
+    MSYS_NO_PATHCONV=1 docker run --rm -v "$(pwd)/data:/data" generator-image ls -la /data
+}
+
+inside_reporter() {
+    MSYS_NO_PATHCONV=1 docker run --rm -v "$(pwd)/data:/data" reporter-image ls -la /data
+}
+
 case "$1" in
     build_generator) build_generator ;;
     run_generator) run_generator ;;
     create_local_data) create_local_data ;;
     build_reporter) build_reporter ;;
     run_reporter) run_reporter ;;
+    structure) structure ;;
+    clear_data) clear_data ;;
+    inside_generator) inside_generator ;;
+    inside_reporter) inside_reporter ;;
 esac
